@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\bin\Debug\net6.0\04. Iterative Combinations without Repetition.exe
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\bin\Debug\net6.0\04. Iterative Combinations without Repetition.deps.json
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\bin\Debug\net6.0\04. Iterative Combinations without Repetition.runtimeconfig.json
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\bin\Debug\net6.0\04. Iterative Combinations without Repetition.dll
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\bin\Debug\net6.0\04. Iterative Combinations without Repetition.pdb
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.dll
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\refint\04. Iterative Combinations without Repetition.dll
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.pdb
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\04. Iterative Combinations without Repetition.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\04. Iterative Combinations without Repetition\obj\Debug\net6.0\ref\04. Iterative Combinations without Repetition.dll

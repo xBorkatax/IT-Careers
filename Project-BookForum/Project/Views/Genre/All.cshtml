@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Project.Models.Genre.GenreViewModel> 
+@{ ViewData["Title"] = "Genre of Books"; } 
+<h2 class="text-center">@ViewBag.Title</h2> 
+<hr /> 
+@if (!Model.Any()) 
+{ <h3 class="text-center">No Genres yet!</h3> }
+else 
+{ 
+    <div class="container text-center">
+    <div class="row"> 
+        @foreach (var genre in Model) 
+        { 
+            <div class="col">
+                <p class="fs-1"> 
+                    @genre.Name 
+                    </p> 
+                    @if (genre.Book.Any())
+                    { 
+                        <div class="row d-flex justify-content-center">
+                            @await Html.PartialAsync("~/Views/Shared/_TaskPartial.cshtml", genre.Book) 
+                        </div> 
+                    } 
+            </div> 
+        } 
+    </div> 
+    </div> 
+}

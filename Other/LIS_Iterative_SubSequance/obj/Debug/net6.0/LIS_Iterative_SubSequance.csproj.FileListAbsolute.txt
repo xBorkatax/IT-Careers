@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\bin\Debug\net6.0\LIS_Iterative_SubSequance.exe
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\bin\Debug\net6.0\LIS_Iterative_SubSequance.deps.json
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\bin\Debug\net6.0\LIS_Iterative_SubSequance.runtimeconfig.json
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\bin\Debug\net6.0\LIS_Iterative_SubSequance.dll
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\bin\Debug\net6.0\LIS_Iterative_SubSequance.pdb
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.dll
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\refint\LIS_Iterative_SubSequance.dll
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.pdb
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\LIS_Iterative_SubSequance.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\LIS_Iterative_SubSequance\obj\Debug\net6.0\ref\LIS_Iterative_SubSequance.dll

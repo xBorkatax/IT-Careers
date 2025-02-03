@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Project.Models.Book.BookFormModel>
+
+    @foreach (var book in Model)
+    {
+        <div class="card" style="width: 20rem;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <span class="fw-bold">Title: </span> @book.Title
+                </li>
+                <li class="list-group-item"><span class="fw-bold">Description: </span> : @book.Description</li>
+                <li class="list-group-item">
+                    <span class="fw-bold">Actions: </span> <a asp-controller="Book"
+                                                          asp-action="Details"
+                                                          asp-route-id="@book.Id"
+                                                              class="btn btn-success mb-2">View</a>
+                    <span></span>
+                    @if (ViewBag.Owner == book.Owner)
+                    {
+                        <a asp-controller="Book" asp-action="Edit" asp-route-id="@book.Id"
+                           class="btn btn-primary mb-2">Edit</a>
+                        <span></span>
+                        <a asp-controller="Book" asp-action="Delete" asp-route-id="@book.Id" class="btn btn-danger mb-2">Delete</a>
+                    }
+                </li>
+            </ul>
+        </div>
+    }

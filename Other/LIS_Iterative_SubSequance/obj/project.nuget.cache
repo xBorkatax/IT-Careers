@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OH+pyaHi0Jc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neychev\\Desktop\\IT-Kariera C#\\Other\\LIS_Iterative_SubSequance\\LIS_Iterative_SubSequance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neychev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Neychev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Neychev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Neychev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Combinatorics\bin\Debug\net6.0\Combinatorics.exe
+C:\Users\Neychev\source\repos\Combinatorics\bin\Debug\net6.0\Combinatorics.deps.json
+C:\Users\Neychev\source\repos\Combinatorics\bin\Debug\net6.0\Combinatorics.runtimeconfig.json
+C:\Users\Neychev\source\repos\Combinatorics\bin\Debug\net6.0\Combinatorics.dll
+C:\Users\Neychev\source\repos\Combinatorics\bin\Debug\net6.0\Combinatorics.pdb
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.dll
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\refint\Combinatorics.dll
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.pdb
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\Combinatorics.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Combinatorics\obj\Debug\net6.0\ref\Combinatorics.dll

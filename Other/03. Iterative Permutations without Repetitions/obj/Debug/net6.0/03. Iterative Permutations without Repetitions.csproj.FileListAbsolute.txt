@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\bin\Debug\net6.0\03. Iterative Permutations without Repetitions.exe
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\bin\Debug\net6.0\03. Iterative Permutations without Repetitions.deps.json
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\bin\Debug\net6.0\03. Iterative Permutations without Repetitions.runtimeconfig.json
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\bin\Debug\net6.0\03. Iterative Permutations without Repetitions.dll
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\bin\Debug\net6.0\03. Iterative Permutations without Repetitions.pdb
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.dll
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\refint\03. Iterative Permutations without Repetitions.dll
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.pdb
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\03. Iterative Permutations without Repetitions.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\03. Iterative Permutations without Repetitions\obj\Debug\net6.0\ref\03. Iterative Permutations without Repetitions.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Izpit2\bin\Debug\net6.0\Izpit2.exe
+C:\Users\Neychev\source\repos\Izpit2\bin\Debug\net6.0\Izpit2.deps.json
+C:\Users\Neychev\source\repos\Izpit2\bin\Debug\net6.0\Izpit2.runtimeconfig.json
+C:\Users\Neychev\source\repos\Izpit2\bin\Debug\net6.0\Izpit2.dll
+C:\Users\Neychev\source\repos\Izpit2\bin\Debug\net6.0\Izpit2.pdb
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.dll
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\refint\Izpit2.dll
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.pdb
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\Izpit2.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Izpit2\obj\Debug\net6.0\ref\Izpit2.dll

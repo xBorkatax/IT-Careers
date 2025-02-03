@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\ActivitySelection\bin\Debug\net6.0\ActivitySelection.exe
+C:\Users\Neychev\source\repos\ActivitySelection\bin\Debug\net6.0\ActivitySelection.deps.json
+C:\Users\Neychev\source\repos\ActivitySelection\bin\Debug\net6.0\ActivitySelection.runtimeconfig.json
+C:\Users\Neychev\source\repos\ActivitySelection\bin\Debug\net6.0\ActivitySelection.dll
+C:\Users\Neychev\source\repos\ActivitySelection\bin\Debug\net6.0\ActivitySelection.pdb
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.dll
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\refint\ActivitySelection.dll
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.pdb
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ActivitySelection.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\ActivitySelection\obj\Debug\net6.0\ref\ActivitySelection.dll

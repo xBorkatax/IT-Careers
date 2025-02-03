@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DefaultConnection"
+    },
+    "postgresql1": {
+      "type": "postgresql",
+      "connectionId": "localhost",
+      "dynamicId": null
+    }
+  }
+}

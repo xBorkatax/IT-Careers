@@ -1,0 +1,41 @@
+@model Project.Models.Book.BookFormModel
+@{ ViewBag.Title = "View Book Details"; }
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr/>
+<div class="d-flex justify-content-center flex-wrap">
+    <div class="card " style="width: 50vw;">
+        <div class="card-body"><h3 class="card-title text-center">@Model.Title</h3>
+            <p class="card-text"><span class="fw-bold">Author: </span>@Model.Author</p>
+            <p class="card-text"><span class="fw-bold">Description: </span>@Model.Description</p>
+            <p class="card-text"><span class="fw-bold">Owner: </span>@Model.Owner</p>
+            <a asp-controller="Comment" asp-action="Create" asp-route-id="@Model.Id"
+               class="btn btn-primary mb-2">Create comment</a>
+            @if (Model.Owner == this.ViewBag.Owner) {
+            <tr class="actions">
+
+                    <td> <a asp-controller="Book" asp-action="Edit" asp-route-id="@Model.Id"
+                       class="btn btn-primary">Edit</a> <a asp-controller="Book" asp-action="Delete"
+                                                           asp-route-id="@Model.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+            }
+        </div>
+        
+    </div>
+    @foreach (var comment in Model.Comments)
+    {
+        <div class="card" style="width: 50vw;">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item"><span class="fw-bold">Description: </span>@comment.Description</li>
+                <li class="list-group-item"><span class="fw-bold">Owner: </span>@comment.Owner</li>
+                @if (ViewBag.Owner == comment.Owner)
+                {
+                    <a asp-controller="Comment" asp-action="Edit" asp-route-id="@comment.Id"
+                       class="btn btn-primary mb-2">Edit</a>
+                    <span></span>
+                    <a asp-controller="Comment" asp-action="Delete" asp-route-id="@comment.Id" class="btn btn-danger mb-2">Delete</a>
+                }
+            </ul>
+        </div>
+    }
+</div>

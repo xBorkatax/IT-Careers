@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Project.Models.Genre.GenreViewModel>
+@{
+    ViewData["Title"] = "Home";
+}
+<h2 class="text-center">@ViewBag.Title</h2>
+<a asp-controller="Genre" asp-action="Create" class="btn btn-secondary mb-2">Create genre</a>
+<hr />
+@if (!Model.Any())
+{
+     <h3 class="text-center">You have no Genres!</h3>
+}
+else
+{   
+    <div class="container text-center">
+        <div class="row">
+            @foreach (var genre in Model)
+            {
+                <div class="col">
+                    <p class="fs-1">
+                        <a asp-controller="Genre" asp-action="Details" asp-route-id="@genre.Id" class="btn btn-secondary mb-2">@genre.Name</a>
+                    </p>
+                </div>
+            }
+        </div>
+    </div>
+}

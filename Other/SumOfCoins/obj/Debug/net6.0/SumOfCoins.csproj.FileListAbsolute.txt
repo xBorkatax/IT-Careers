@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\Neychev\source\repos\SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\Neychev\source\repos\SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\Neychev\source\repos\SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\Neychev\source\repos\SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll

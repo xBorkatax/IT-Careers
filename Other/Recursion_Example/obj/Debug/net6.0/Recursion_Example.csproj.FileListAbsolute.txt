@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Recursion_Example\bin\Debug\net6.0\Recursion_Example.exe
+C:\Users\Neychev\source\repos\Recursion_Example\bin\Debug\net6.0\Recursion_Example.deps.json
+C:\Users\Neychev\source\repos\Recursion_Example\bin\Debug\net6.0\Recursion_Example.runtimeconfig.json
+C:\Users\Neychev\source\repos\Recursion_Example\bin\Debug\net6.0\Recursion_Example.dll
+C:\Users\Neychev\source\repos\Recursion_Example\bin\Debug\net6.0\Recursion_Example.pdb
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.dll
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\refint\Recursion_Example.dll
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.pdb
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\Recursion_Example.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Recursion_Example\obj\Debug\net6.0\ref\Recursion_Example.dll

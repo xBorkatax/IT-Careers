@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\bin\Debug\net6.0\Fibonacci_Iterativ.exe
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\bin\Debug\net6.0\Fibonacci_Iterativ.deps.json
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\bin\Debug\net6.0\Fibonacci_Iterativ.runtimeconfig.json
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\bin\Debug\net6.0\Fibonacci_Iterativ.dll
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\bin\Debug\net6.0\Fibonacci_Iterativ.pdb
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.dll
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\refint\Fibonacci_Iterativ.dll
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.pdb
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\Fibonacci_Iterativ.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Fibonacci_Iterativ\obj\Debug\net6.0\ref\Fibonacci_Iterativ.dll

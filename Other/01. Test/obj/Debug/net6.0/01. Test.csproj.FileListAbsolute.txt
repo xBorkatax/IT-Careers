@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\01. Test\bin\Debug\net6.0\01. Test.exe
+C:\Users\Neychev\source\repos\01. Test\bin\Debug\net6.0\01. Test.deps.json
+C:\Users\Neychev\source\repos\01. Test\bin\Debug\net6.0\01. Test.runtimeconfig.json
+C:\Users\Neychev\source\repos\01. Test\bin\Debug\net6.0\01. Test.dll
+C:\Users\Neychev\source\repos\01. Test\bin\Debug\net6.0\01. Test.pdb
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.dll
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\refint\01. Test.dll
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.pdb
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\01. Test.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\01. Test\obj\Debug\net6.0\ref\01. Test.dll
