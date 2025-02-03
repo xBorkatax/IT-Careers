@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqleVQlQ1KJb1PxkOjgUKazQFDRBS5JZ3RIjV2OxBh/Ghcm9O6g/yBQRYMLskngj8Yz1uXIiVmo91Uu42o0Wng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neychev\\source\\repos\\Basics\\21. Sum Seconds\\21. Sum Seconds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neychev\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\Neychev\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

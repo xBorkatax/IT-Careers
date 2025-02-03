@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\bin\Debug\net6.0\54. Character Sequence.exe
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\bin\Debug\net6.0\54. Character Sequence.deps.json
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\bin\Debug\net6.0\54. Character Sequence.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\bin\Debug\net6.0\54. Character Sequence.dll
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\bin\Debug\net6.0\54. Character Sequence.pdb
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.dll
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\refint\54. Character Sequence.dll
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.pdb
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\54. Character Sequence.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\54. Character Sequence\obj\Debug\net6.0\ref\54. Character Sequence.dll

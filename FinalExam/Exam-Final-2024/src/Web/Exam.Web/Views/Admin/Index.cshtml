@@ -1,0 +1,72 @@
+﻿@model List<UserDetailsViewModel>
+
+@{
+    ViewData["Title"] = "User List";
+}
+
+<h1>User List</h1>
+<h6>
+    <b>All Users:</b> @ViewBag.userCount
+    <b style="margin-left: 50px;">Barbers:</b> @ViewBag.barberCount
+    <b style="margin-left: 50px;">Reviews:</b> @ViewBag.reviewCount
+</h6>
+<form asp-action="CreateAccount" method="get" style="display:inline;">
+    <button type="submit" class="btn btn-success">Create Account</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>User Name</th>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>Status</th>
+            <th></th>
+            <th></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.UserName</td>
+                <td>@user.FirstName</td>
+                <td>@user.LastName</td>
+                <td>
+                    @if (@user.IsBanned == true)
+                    {
+                        @:Banned
+                    }
+                    else
+                    {
+                        @:Active
+                    }
+                </td>
+                <td>
+                    @if (!user.IsBanned)
+                    {
+                        <form asp-action="Ban" method="post" style="display:inline;">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-danger">Ban</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="Unban" method="post" style="display:inline;">
+                            <input type="hidden" name="userId" value="@user.Id" />
+                            <button type="submit" class="btn btn-success">Unban</button>
+                        </form>
+                    }
+                </td>
+                <td>
+                    <a asp-action="EditUser" asp-controller="Account"
+                       asp-route-UserId="@user.Id" class="btn btn-primary">Edit</a>
+                    <a asp-action="DeleteUser" asp-controller="Admin"
+                       asp-route-UserId="@user.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

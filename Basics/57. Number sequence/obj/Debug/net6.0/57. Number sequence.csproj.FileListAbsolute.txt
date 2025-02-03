@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\bin\Debug\net6.0\57. Number sequence.exe
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\bin\Debug\net6.0\57. Number sequence.deps.json
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\bin\Debug\net6.0\57. Number sequence.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\bin\Debug\net6.0\57. Number sequence.dll
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\bin\Debug\net6.0\57. Number sequence.pdb
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.dll
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\refint\57. Number sequence.dll
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.pdb
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\57. Number sequence.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\57. Number sequence\obj\Debug\net6.0\ref\57. Number sequence.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "39. Fruit Shop/1.0.0": {
+        "runtime": {
+          "39. Fruit Shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "39. Fruit Shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

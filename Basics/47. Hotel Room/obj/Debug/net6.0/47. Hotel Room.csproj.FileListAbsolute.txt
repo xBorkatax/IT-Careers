@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\bin\Debug\net6.0\47. Hotel Room.exe
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\bin\Debug\net6.0\47. Hotel Room.deps.json
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\bin\Debug\net6.0\47. Hotel Room.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\bin\Debug\net6.0\47. Hotel Room.dll
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\bin\Debug\net6.0\47. Hotel Room.pdb
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.dll
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\refint\47. Hotel Room.dll
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.pdb
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\47. Hotel Room.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\47. Hotel Room\obj\Debug\net6.0\ref\47. Hotel Room.dll

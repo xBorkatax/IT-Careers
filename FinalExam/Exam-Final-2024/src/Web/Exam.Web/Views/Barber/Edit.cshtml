@@ -1,0 +1,47 @@
+﻿@model BarberEditModel
+
+@{
+    ViewData["Title"] = "Edit Title";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Image" class="control-label"></label>
+        <input asp-for="Image" type="file" class="form-control" />
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+    @if (Model.ImageUrl != null)
+    {
+        <div class="form-group">
+            <label>Current Image</label>
+            <div>
+                <img src="https://localhost:7212/@Model.ImageUrl" alt="Current Image" style="max-width: 200px; max-height: 200px;" />
+            </div>
+        </div>
+    }
+    <div class="mb-3">
+        <label hidden="hidden" asp-for="CreatedBy" class="form-label">@Model.CreatedBy</label>
+        <input hidden="hidden" asp-for="CreatedBy" class="form-control" aria-required="true" />
+        <span asp-validation-for="CreatedBy" class="text-danger" hidden="hidden"></span>
+    </div>
+    <div class="mb-3">
+        <label hidden="hidden" asp-for="ImageUrl" class="form-label">@Model.ImageUrl</label>
+        <input hidden="hidden" asp-for="ImageUrl" class="form-control" aria-required="true" />
+        <span asp-validation-for="ImageUrl" class="text-danger" hidden="hidden"></span>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>

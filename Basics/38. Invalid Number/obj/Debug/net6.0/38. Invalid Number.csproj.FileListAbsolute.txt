@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\bin\Debug\net6.0\38. Invalid Number.exe
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\bin\Debug\net6.0\38. Invalid Number.deps.json
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\bin\Debug\net6.0\38. Invalid Number.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\bin\Debug\net6.0\38. Invalid Number.dll
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\bin\Debug\net6.0\38. Invalid Number.pdb
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.dll
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\refint\38. Invalid Number.dll
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.pdb
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\38. Invalid Number.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\38. Invalid Number\obj\Debug\net6.0\ref\38. Invalid Number.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\bin\Debug\net6.0\55. Vowels Sum.exe
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\bin\Debug\net6.0\55. Vowels Sum.deps.json
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\bin\Debug\net6.0\55. Vowels Sum.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\bin\Debug\net6.0\55. Vowels Sum.dll
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\bin\Debug\net6.0\55. Vowels Sum.pdb
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.dll
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\refint\55. Vowels Sum.dll
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.pdb
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\55. Vowels Sum.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\55. Vowels Sum\obj\Debug\net6.0\ref\55. Vowels Sum.dll

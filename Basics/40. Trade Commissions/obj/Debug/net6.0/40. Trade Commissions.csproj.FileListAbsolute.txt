@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\bin\Debug\net6.0\40. Trade Commissions.exe
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\bin\Debug\net6.0\40. Trade Commissions.deps.json
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\bin\Debug\net6.0\40. Trade Commissions.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\bin\Debug\net6.0\40. Trade Commissions.dll
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\bin\Debug\net6.0\40. Trade Commissions.pdb
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.dll
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\refint\40. Trade Commissions.dll
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.pdb
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\40. Trade Commissions.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\40. Trade Commissions\obj\Debug\net6.0\ref\40. Trade Commissions.dll

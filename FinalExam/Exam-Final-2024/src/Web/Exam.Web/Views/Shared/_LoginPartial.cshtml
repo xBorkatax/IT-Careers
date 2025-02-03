@@ -1,0 +1,39 @@
+﻿@using Exam.Data.Models
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+	@if (User.IsInRole("Admin"))
+	{
+		<a asp-controller="Barber" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Manage </a>
+		<a asp-controller="Admin" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Admin panel </a>
+		<a asp-controller="Account"
+		   asp-route-userId="@int.Parse(UserManager.GetUserId(User))"
+		   asp-action="EditUser"
+		   class="nav-border nav-text-color nav-font-size px-1">
+			My Profile
+		</a>
+	}
+	else
+	{
+		<a asp-controller="Barber" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">All Barbers </a>
+		<a asp-controller="Review" asp-action="MyReviews" asp-route-userId="@int.Parse(UserManager.GetUserId(User))" class="nav-border nav-text-color nav-font-size px-1">My reviews </a>
+		<a asp-controller="Account"
+		   asp-route-userId="@int.Parse(UserManager.GetUserId(User))"
+		   asp-action="EditUser"
+		   class="nav-border nav-text-color nav-font-size px-1">
+			My Profile
+		</a>
+	} 
+	<a asp-controller="Account" asp-action="Logout" class="nav-text-color nav-font-size px-1">Logout</a>
+
+}
+else
+{
+	<a asp-controller="Account" asp-action="Login"  class="nav-border nav-text-color nav-font-size px-1">Login</a>
+	<a asp-controller="Account" asp-action="Register" class="nav-text-color nav-font-size px-1">Register</a>
+}

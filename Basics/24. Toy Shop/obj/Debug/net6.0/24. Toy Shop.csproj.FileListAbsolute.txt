@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\bin\Debug\net6.0\24. Toy Shop.exe
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\bin\Debug\net6.0\24. Toy Shop.deps.json
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\bin\Debug\net6.0\24. Toy Shop.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\bin\Debug\net6.0\24. Toy Shop.dll
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\bin\Debug\net6.0\24. Toy Shop.pdb
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.dll
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\refint\24. Toy Shop.dll
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.pdb
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\24. Toy Shop.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\24. Toy Shop\obj\Debug\net6.0\ref\24. Toy Shop.dll

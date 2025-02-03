@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\bin\Debug\net6.0\28. Lunch Break.exe
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\bin\Debug\net6.0\28. Lunch Break.deps.json
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\bin\Debug\net6.0\28. Lunch Break.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\bin\Debug\net6.0\28. Lunch Break.dll
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\bin\Debug\net6.0\28. Lunch Break.pdb
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.dll
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\refint\28. Lunch Break.dll
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.pdb
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\28. Lunch Break.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\28. Lunch Break\obj\Debug\net6.0\ref\28. Lunch Break.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\bin\Debug\net6.0\14. Excellent Result.exe
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\bin\Debug\net6.0\14. Excellent Result.deps.json
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\bin\Debug\net6.0\14. Excellent Result.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\bin\Debug\net6.0\14. Excellent Result.dll
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\bin\Debug\net6.0\14. Excellent Result.pdb
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.dll
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\refint\14. Excellent Result.dll
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.pdb
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\14. Excellent Result.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\14. Excellent Result\obj\Debug\net6.0\ref\14. Excellent Result.dll

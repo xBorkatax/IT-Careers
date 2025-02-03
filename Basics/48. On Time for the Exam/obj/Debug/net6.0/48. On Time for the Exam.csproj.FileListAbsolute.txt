@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\bin\Debug\net6.0\48. On Time for the Exam.exe
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\bin\Debug\net6.0\48. On Time for the Exam.deps.json
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\bin\Debug\net6.0\48. On Time for the Exam.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\bin\Debug\net6.0\48. On Time for the Exam.dll
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\bin\Debug\net6.0\48. On Time for the Exam.pdb
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.dll
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\refint\48. On Time for the Exam.dll
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.pdb
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\48. On Time for the Exam.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\48. On Time for the Exam\obj\Debug\net6.0\ref\48. On Time for the Exam.dll

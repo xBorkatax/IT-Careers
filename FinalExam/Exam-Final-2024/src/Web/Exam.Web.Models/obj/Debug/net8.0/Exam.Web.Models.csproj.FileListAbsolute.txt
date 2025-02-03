@@ -1,0 +1,16 @@
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\bin\Debug\net8.0\Exam.Web.Models.deps.json
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\bin\Debug\net8.0\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\bin\Debug\net8.0\Exam.Web.Models.pdb
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\bin\Debug\net8.0\Exam.Data.Models.dll
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\bin\Debug\net8.0\Exam.Data.Models.pdb
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.csproj.AssemblyReference.cache
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.sourcelink.json
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.A920A867.Up2Date
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\refint\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\Exam.Web.Models.pdb
+C:\Users\Neychev\Desktop\FinalExam\Exam-Final-2024\src\Web\Exam.Web.Models\obj\Debug\net8.0\ref\Exam.Web.Models.dll

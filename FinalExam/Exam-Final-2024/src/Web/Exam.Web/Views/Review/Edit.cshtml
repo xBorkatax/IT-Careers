@@ -1,0 +1,29 @@
+﻿@model ReviewEditModel
+
+@{
+    ViewData["Title"] = "Edit Review";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label hidden="hidden" asp-for="BarberId" class="form-label">@Model.BarberId</label>
+        <input hidden="hidden" asp-for="BarberId" class="form-control" aria-required="true" />
+        <span asp-validation-for="BarberId" class="text-danger" hidden="hidden"></span>
+    </div>
+    <br>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>

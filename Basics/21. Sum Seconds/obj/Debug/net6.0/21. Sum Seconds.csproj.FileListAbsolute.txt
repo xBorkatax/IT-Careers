@@ -1,0 +1,18 @@
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\21. Sum Seconds.exe
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\21. Sum Seconds.deps.json
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\21. Sum Seconds.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\21. Sum Seconds.dll
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\21. Sum Seconds.pdb
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.csproj.CopyComplete
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.dll
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\refint\21. Sum Seconds.dll
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.pdb
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\21. Sum Seconds.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\21. Sum Seconds\obj\Debug\net6.0\ref\21. Sum Seconds.dll

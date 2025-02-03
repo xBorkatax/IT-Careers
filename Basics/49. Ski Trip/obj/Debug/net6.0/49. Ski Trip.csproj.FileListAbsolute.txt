@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\bin\Debug\net6.0\49. Ski Trip.exe
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\bin\Debug\net6.0\49. Ski Trip.deps.json
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\bin\Debug\net6.0\49. Ski Trip.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\bin\Debug\net6.0\49. Ski Trip.dll
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\bin\Debug\net6.0\49. Ski Trip.pdb
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.dll
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\refint\49. Ski Trip.dll
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.pdb
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\49. Ski Trip.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\49. Ski Trip\obj\Debug\net6.0\ref\49. Ski Trip.dll

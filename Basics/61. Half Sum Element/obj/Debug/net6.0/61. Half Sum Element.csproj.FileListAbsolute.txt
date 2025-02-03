@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\bin\Debug\net6.0\61. Half Sum Element.exe
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\bin\Debug\net6.0\61. Half Sum Element.deps.json
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\bin\Debug\net6.0\61. Half Sum Element.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\bin\Debug\net6.0\61. Half Sum Element.dll
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\bin\Debug\net6.0\61. Half Sum Element.pdb
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.dll
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\refint\61. Half Sum Element.dll
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.pdb
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\61. Half Sum Element.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\61. Half Sum Element\obj\Debug\net6.0\ref\61. Half Sum Element.dll

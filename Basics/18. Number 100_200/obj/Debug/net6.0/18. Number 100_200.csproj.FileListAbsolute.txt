@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\bin\Debug\net6.0\18. Number 100_200.exe
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\bin\Debug\net6.0\18. Number 100_200.deps.json
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\bin\Debug\net6.0\18. Number 100_200.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\bin\Debug\net6.0\18. Number 100_200.dll
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\bin\Debug\net6.0\18. Number 100_200.pdb
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.dll
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\refint\18. Number 100_200.dll
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.pdb
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\18. Number 100_200.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\18. Number 100_200\obj\Debug\net6.0\ref\18. Number 100_200.dll

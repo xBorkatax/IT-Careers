@@ -1,0 +1,55 @@
+﻿@using Exam.Data.Models
+@model Exam.Web.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="w-75 m-auto">
+	<div class="border-form">
+		<span class="register-title">Register</span>
+
+		<form class="register-login-form m-auto" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+			<div class="row">
+				<div class="col">
+					<div class="mb-3">
+						<label asp-for="UserName" class="mb-1">Username</label>
+						<br />
+						<input asp-for="UserName" class="border-form" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="UserName" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+						<label asp-for="FirstName" class="mb-1">First name</label>
+						<br />
+						<input asp-for="FirstName" class="border-form" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="FirstName" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="col">
+					<div class="mb-3">
+						<label asp-for="Password" class="mb-1">Password</label>
+						<br />
+						<input asp-for="Password" class="border-form" autocomplete="new-password" aria-required="true" />
+						<br />
+						<span asp-validation-for="Password" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+						<label asp-for="LastName" class="mb-1">Last name</label>
+						<br />
+						<input asp-for="LastName" class="border-form" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="LastName" class="text-danger"></span>
+					</div>
+				</div>
+			</div>
+			<div class="mb-3 d-flex justify-content-center">
+				<button id="register-submit" class="border-form bg-white" type="submit">Register</button>
+			</div>
+		</form>
+	</div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

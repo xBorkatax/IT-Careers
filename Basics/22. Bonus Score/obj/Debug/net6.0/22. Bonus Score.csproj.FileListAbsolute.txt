@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\bin\Debug\net6.0\22. Bonus Score.exe
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\bin\Debug\net6.0\22. Bonus Score.deps.json
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\bin\Debug\net6.0\22. Bonus Score.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\bin\Debug\net6.0\22. Bonus Score.dll
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\bin\Debug\net6.0\22. Bonus Score.pdb
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.dll
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\refint\22. Bonus Score.dll
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.pdb
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\22. Bonus Score.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\22. Bonus Score\obj\Debug\net6.0\ref\22. Bonus Score.dll

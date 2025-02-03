@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\bin\Debug\net6.0\39. Fruit Shop.exe
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\bin\Debug\net6.0\39. Fruit Shop.deps.json
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\bin\Debug\net6.0\39. Fruit Shop.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\bin\Debug\net6.0\39. Fruit Shop.dll
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\bin\Debug\net6.0\39. Fruit Shop.pdb
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.dll
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\refint\39. Fruit Shop.dll
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.pdb
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\39. Fruit Shop.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\39. Fruit Shop\obj\Debug\net6.0\ref\39. Fruit Shop.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\bin\Debug\net6.0\26. World Swimming Record.exe
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\bin\Debug\net6.0\26. World Swimming Record.deps.json
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\bin\Debug\net6.0\26. World Swimming Record.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\bin\Debug\net6.0\26. World Swimming Record.dll
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\bin\Debug\net6.0\26. World Swimming Record.pdb
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.dll
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\refint\26. World Swimming Record.dll
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.pdb
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\26. World Swimming Record.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\26. World Swimming Record\obj\Debug\net6.0\ref\26. World Swimming Record.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\bin\Debug\net6.0\44. Fishing Boat.exe
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\bin\Debug\net6.0\44. Fishing Boat.deps.json
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\bin\Debug\net6.0\44. Fishing Boat.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\bin\Debug\net6.0\44. Fishing Boat.dll
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\bin\Debug\net6.0\44. Fishing Boat.pdb
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.dll
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\refint\44. Fishing Boat.dll
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.pdb
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\44. Fishing Boat.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\44. Fishing Boat\obj\Debug\net6.0\ref\44. Fishing Boat.dll

@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\bin\Debug\net6.0\50. Numbers from 1 to 100.exe
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\bin\Debug\net6.0\50. Numbers from 1 to 100.deps.json
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\bin\Debug\net6.0\50. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\bin\Debug\net6.0\50. Numbers from 1 to 100.dll
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\bin\Debug\net6.0\50. Numbers from 1 to 100.pdb
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.dll
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\refint\50. Numbers from 1 to 100.dll
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.pdb
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\50. Numbers from 1 to 100.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\50. Numbers from 1 to 100\obj\Debug\net6.0\ref\50. Numbers from 1 to 100.dll

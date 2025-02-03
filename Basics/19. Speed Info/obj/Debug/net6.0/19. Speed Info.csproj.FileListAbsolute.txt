@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\bin\Debug\net6.0\19. Speed Info.exe
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\bin\Debug\net6.0\19. Speed Info.deps.json
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\bin\Debug\net6.0\19. Speed Info.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\bin\Debug\net6.0\19. Speed Info.dll
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\bin\Debug\net6.0\19. Speed Info.pdb
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.dll
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\refint\19. Speed Info.dll
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.pdb
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\19. Speed Info.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\19. Speed Info\obj\Debug\net6.0\ref\19. Speed Info.dll

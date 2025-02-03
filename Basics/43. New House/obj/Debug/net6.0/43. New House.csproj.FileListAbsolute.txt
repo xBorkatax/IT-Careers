@@ -1,0 +1,15 @@
+C:\Users\Neychev\source\repos\Basics\43. New House\bin\Debug\net6.0\43. New House.exe
+C:\Users\Neychev\source\repos\Basics\43. New House\bin\Debug\net6.0\43. New House.deps.json
+C:\Users\Neychev\source\repos\Basics\43. New House\bin\Debug\net6.0\43. New House.runtimeconfig.json
+C:\Users\Neychev\source\repos\Basics\43. New House\bin\Debug\net6.0\43. New House.dll
+C:\Users\Neychev\source\repos\Basics\43. New House\bin\Debug\net6.0\43. New House.pdb
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.csproj.AssemblyReference.cache
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.AssemblyInfoInputs.cache
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.AssemblyInfo.cs
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.dll
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\refint\43. New House.dll
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.pdb
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\43. New House.genruntimeconfig.cache
+C:\Users\Neychev\source\repos\Basics\43. New House\obj\Debug\net6.0\ref\43. New House.dll
