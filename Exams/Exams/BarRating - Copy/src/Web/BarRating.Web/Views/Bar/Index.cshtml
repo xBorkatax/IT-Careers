@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BarRating.Web.Models.BarViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedByUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedOn)
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedByUserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedOn)
+                </td>
+                <td>
+                    <img src="/Bar/GetImage?id=@item.Id" width="200px" alt="Image">
+                </td>
+                <td>
+                    @if (User.IsInRole("Administrator"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@item.Id" method="post">
+                            <button class="account-form-border bg-white" type="submit">Delete</button>
+                        </form>
+                    }
+                    
+                    <form asp-controller="Review" asp-action="Index" asp-route-id="@item.Id" method="get">
+                        <button class="account-form-border bg-white" type="submit">See reviews</button>
+                    </form> |
+                    <form asp-controller="Review" asp-action="Create" asp-route-id="@item.Id" method="get">
+                        <input type="hidden" name="barName" value="@item.Name" />
+                        <button class="account-form-border bg-white" type="submit">Add a review</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

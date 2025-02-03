@@ -1,0 +1,50 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model BarRating.Web.Models.BarUpdateModel
+@inject UserManager<BarRatingUser> userManager;
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="w-75 m-auto">
+    <div class="form-border">
+        <span class="form-title">Update a bar</span>
+
+        <form class="w-75 m-auto" asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="Name" class="mb-1"></label>
+                <br />
+                <input asp-for="Name" class="form-border w-100" />
+                <br />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="mb-1"></label>
+                <br />
+                <textarea asp-for="Description" class="form-border w-100" rows="3"></textarea>
+                <br />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Image" class="mb-1"></label>
+                <br />
+                <input asp-for="Image" class="form-border" />
+                <br />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" value="@Model.Id" />
+            <input type="hidden" asp-for="CreatedById" value="@((await userManager.GetUserAsync(User)).Id)" />
+            <div class="mb-3 d-flex justify-content-center">
+                <button id="login-submit" class="account-form-border bg-white" type="submit">Update</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

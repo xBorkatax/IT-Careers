@@ -1,0 +1,15 @@
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\bin\Debug\net8.0\BarRating.Data.deps.json
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\bin\Debug\net8.0\BarRating.Data.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\bin\Debug\net8.0\BarRating.Data.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.AssemblyInfoInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.AssemblyInfo.cs
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.csproj.CoreCompileInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\refint\BarRating.Data.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\ref\BarRating.Data.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\bin\Debug\net8.0\BarRating.Data.Models.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\bin\Debug\net8.0\BarRating.Data.Models.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.csproj.AssemblyReference.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Data\BarRating.Data\obj\Debug\net8.0\BarRating.Data.csproj.CopyComplete

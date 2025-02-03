@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vs9M0pUh5hHLQzPVDI6RMW2BDQJq6FRJ4BR2Un0wrmAgaYzKjSLBIoOFFJlvhNVYXaVLB+/yqgLYmX6Zszjjkg==",
+  "success": true,
+  "projectFilePath": "D:\\IT-Career\\IT-Career-2023-2024\\Exams\\BarRating\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iavor Vassilev\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Iavor Vassilev\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Iavor Vassilev\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

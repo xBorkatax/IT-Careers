@@ -1,0 +1,17 @@
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Service.Mappings.deps.json
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Service.Mappings.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Service.Mappings.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.AssemblyInfoInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.AssemblyInfo.cs
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.csproj.CoreCompileInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\refint\BarRating.Service.Mappings.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\ref\BarRating.Service.Mappings.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Data.Models.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Service.Models.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Data.Models.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\bin\Debug\net8.0\BarRating.Service.Models.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.csproj.AssemblyReference.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\BarRating\src\Service\BarRating.Service.Mappings\obj\Debug\net8.0\BarRating.Service.Mappings.csproj.CopyComplete

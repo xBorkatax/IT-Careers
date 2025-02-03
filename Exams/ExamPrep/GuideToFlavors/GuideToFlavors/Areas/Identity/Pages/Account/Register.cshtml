@@ -1,0 +1,56 @@
+﻿@page
+@model RegisterModel
+@{
+	ViewData["Title"] = "Register";
+}
+
+<div class="w-75 m-auto">
+	<div class="account-form-border">
+		<span class="account-form-title">Register</span>
+
+		<form class="w-fit-content m-auto" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+			<div class="row">
+				<div class="col">
+					<div class="mb-3">
+						<label asp-for="Input.Username" class="mb-1">Username</label>
+						<br />
+						<input asp-for="Input.Username" class="account-form-border" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="Input.Username" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+						<label asp-for="Input.FirstName" class="mb-1">First name</label>
+						<br />
+						<input asp-for="Input.FirstName" class="account-form-border" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="Input.FirstName" class="text-danger"></span>
+					</div>
+				</div>
+				<div class="col">
+					<div class="mb-3">
+						<label asp-for="Input.Password" class="mb-1">Password</label>
+						<br />
+						<input asp-for="Input.Password" class="account-form-border" autocomplete="new-password" aria-required="true" />
+						<br />
+						<span asp-validation-for="Input.Password" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+						<label asp-for="Input.LastName" class="mb-1">Last name</label>
+						<br />
+						<input asp-for="Input.LastName" class="account-form-border" autocomplete="username" aria-required="true" />
+						<br />
+						<span asp-validation-for="Input.LastName" class="text-danger"></span>
+					</div>
+				</div>
+			</div>
+			<div class="mb-3 d-flex justify-content-center">
+				<button id="register-submit" class="account-form-border bg-white" type="submit">Register</button>
+			</div>
+		</form>
+	</div>
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}

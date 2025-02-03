@@ -1,0 +1,14 @@
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.exe
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.deps.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.runtimeconfig.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.runtimeconfig.dev.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\bin\Debug\netcoreapp3.1\ReversedLottery.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.csproj.AssemblyReference.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.AssemblyInfoInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.AssemblyInfo.cs
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.csproj.CoreCompileInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\ReversedLottery\obj\Debug\netcoreapp3.1\ReversedLottery.genruntimeconfig.cache
