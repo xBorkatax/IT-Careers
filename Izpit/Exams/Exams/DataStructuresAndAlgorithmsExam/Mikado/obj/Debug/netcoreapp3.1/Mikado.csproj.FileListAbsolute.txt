@@ -1,0 +1,14 @@
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.exe
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.deps.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.runtimeconfig.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.runtimeconfig.dev.json
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\bin\Debug\netcoreapp3.1\Mikado.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.csproj.AssemblyReference.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.AssemblyInfoInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.AssemblyInfo.cs
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.csproj.CoreCompileInputs.cache
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.dll
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.pdb
+D:\IT-Career\IT-Career-2023-2024\Exams\DataStructuresAndAlgorithmsExam\Mikado\obj\Debug\netcoreapp3.1\Mikado.genruntimeconfig.cache

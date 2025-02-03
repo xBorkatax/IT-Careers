@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\controllers\\barcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\views\\bar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\views\\review\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\bar\\barservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\bar\\barservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\bar\\ibarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\bar\\ibarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E618737E-EE7D-409D-BF0F-498F036D3092}|src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web.models\\reviewcreationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E618737E-EE7D-409D-BF0F-498F036D3092}|src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj|solutionrelative:src\\web\\barrating.web.models\\reviewcreationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\review\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\review\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\review\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\review\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\bar\\ibarfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\bar\\ibarfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BarRating.Web_bc8d7785_c9d5_4ac7_a507_43e2a18b9704/True/SqlTable/dbo.Reviews.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\review\\reviewfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\review\\reviewfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\bar\\barfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\bar\\barfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\service\\barrating.service\\review\\ireviewfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99693D64-5962-40E3-9AB1-CB701097A31F}|src\\Service\\BarRating.Service\\BarRating.Service.csproj|solutionrelative:src\\service\\barrating.service\\review\\ireviewfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|c:\\users\\neychev\\desktop\\exams\\exams\\barrating - copy\\src\\web\\barrating.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61CC9048-14FC-4BEC-BB5F-711C0B81D495}|src\\Web\\BarRating.Web\\BarRating.Web.csproj|solutionrelative:src\\web\\barrating.web\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\IReviewService.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Review\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\IReviewService.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Review\\IReviewService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\ReviewService.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Review\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\ReviewService.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Review\\ReviewService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarController.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\BarController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Controllers\\BarController.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Controllers\\BarController.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Controllers\\BarController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarService.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\BarService.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Bar\\BarService.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\BarService.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Bar\\BarService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAjwGUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Review\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Views\\Review\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Review\\Index.cshtml",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Views\\Review\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Review\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Views\\Review\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Review\\Create.cshtml",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Views\\Review\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Bar\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Views\\Bar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\Bar\\Index.cshtml*",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Views\\Bar\\Index.cshtml*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBarFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\IBarFacade.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Bar\\IBarFacade.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\IBarFacade.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Bar\\IBarFacade.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\ReviewFacade.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Review\\ReviewFacade.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\ReviewFacade.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Review\\ReviewFacade.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Reviews [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_BarRating.Web_bc8d7785_c9d5_4ac7_a507_43e2a18b9704/True/SqlTable/dbo.Reviews.sql",
+              "ToolTip": "dbo.Reviews [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-28T12:20:29.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBarService.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\IBarService.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Bar\\IBarService.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\IBarService.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Bar\\IBarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAASwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Program.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BarFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\BarFacade.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Bar\\BarFacade.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Bar\\BarFacade.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Bar\\BarFacade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReviewFacade.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\IReviewFacade.cs",
+              "RelativeDocumentMoniker": "src\\Service\\BarRating.Service\\Review\\IReviewFacade.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\Review\\IReviewFacade.cs",
+              "RelativeToolTip": "src\\Service\\BarRating.Service\\Review\\IReviewFacade.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewCreationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\ReviewCreationModel.cs",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web.Models\\ReviewCreationModel.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\ReviewCreationModel.cs",
+              "RelativeToolTip": "src\\Web\\BarRating.Web.Models\\ReviewCreationModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:46:32.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "src\\Web\\BarRating.Web\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "src\\Web\\BarRating.Web\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:46:32.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

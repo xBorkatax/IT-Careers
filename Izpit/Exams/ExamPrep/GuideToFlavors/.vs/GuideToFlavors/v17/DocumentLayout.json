@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\services\\restaurant\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\services\\restaurant\\restaurantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GuideToFlavors_1b081f54_9e8d_4340_a138_14239c418881/True/SqlTable/dbo.Restaurants.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\servicemodels\\baseentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\servicemodels\\baseentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|c:\\users\\neychev\\desktop\\exams\\examprep\\guidetoflavors\\guidetoflavors\\data\\migrations\\20240614054921_sadasfasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C979C08C-7CA2-4F9B-B4F2-3DC491E4EC7C}|GuideToFlavors\\GuideToFlavors.csproj|solutionrelative:guidetoflavors\\data\\migrations\\20240614054921_sadasfasd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T14:57:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T14:59:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T14:59:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240614054921_sadasfasd.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Data\\Migrations\\20240614054921_sadasfasd.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Data\\Migrations\\20240614054921_sadasfasd.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Data\\Migrations\\20240614054921_sadasfasd.cs",
+              "RelativeToolTip": "GuideToFlavors\\Data\\Migrations\\20240614054921_sadasfasd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:49:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantService.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Services\\Restaurant\\RestaurantService.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Services\\Restaurant\\RestaurantService.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Services\\Restaurant\\RestaurantService.cs",
+              "RelativeToolTip": "GuideToFlavors\\Services\\Restaurant\\RestaurantService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:23:10.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Restaurants [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_GuideToFlavors_1b081f54_9e8d_4340_a138_14239c418881/True/SqlTable/dbo.Restaurants.sql",
+              "ToolTip": "dbo.Restaurants [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-22T19:37:49.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "GuideToFlavors\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:23:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T21:23:10.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GuideToFlavors\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:23:10.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\ServiceModels\\BaseEntityDto.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\ServiceModels\\BaseEntityDto.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\ServiceModels\\BaseEntityDto.cs",
+              "RelativeToolTip": "GuideToFlavors\\ServiceModels\\BaseEntityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:23:10.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Program.cs",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Program.cs",
+              "RelativeToolTip": "GuideToFlavors\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:23:10.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Restaurants\\Create.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Restaurants\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Restaurants\\Create.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Restaurants\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T21:23:10.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "GuideToFlavors\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exams\\ExamPrep\\GuideToFlavors\\GuideToFlavors\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "GuideToFlavors\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T21:23:10.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

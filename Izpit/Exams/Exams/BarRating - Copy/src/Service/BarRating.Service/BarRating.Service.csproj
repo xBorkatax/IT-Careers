@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\BarRating.Data\BarRating.Data.csproj" />
+    <ProjectReference Include="..\..\Web\BarRating.Web.Models\BarRating.Web.Models.csproj" />
+    <ProjectReference Include="..\BarRating.Service.Mappings\BarRating.Service.Mappings.csproj" />
+	<ProjectReference Include="..\BarRating.Service.Models\BarRating.Service.Models.csproj" />
+  </ItemGroup>
+
+</Project>

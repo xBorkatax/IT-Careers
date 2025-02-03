@@ -1,0 +1,60 @@
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.deps.json
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.pdb
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.pdb
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.AssemblyReference.cache
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.sourcelink.json
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Ser.56E66E4D.Up2Date
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\refint\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\obj\Debug\net8.0\ref\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\Exam\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.deps.json
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.AssemblyReference.cache
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.sourcelink.json
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Ser.56E66E4D.Up2Date
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\refint\Exam.Service.dll
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Exam-ViewTwo\src\Service\Exam.Service\obj\Debug\net8.0\ref\Exam.Service.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.deps.json
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.Models.pdb
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Data.pdb
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\bin\Debug\net8.0\Exam.Web.Models.pdb
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.AssemblyReference.cache
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.sourcelink.json
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Ser.56E66E4D.Up2Date
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\refint\Exam.Service.dll
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\Exam.Service.pdb
+C:\Users\Neychev\Desktop\Образцов дом задача\src\Service\Exam.Service\obj\Debug\net8.0\ref\Exam.Service.dll

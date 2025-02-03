@@ -1,0 +1,72 @@
+﻿@using Exam.Data.Models
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<User> UserManager
+@model List<Exam.Web.Models.TitleViewModel>
+
+<h2 class="text-center">Titles</h2>
+<a asp-controller="Title" asp-action="Create" class="btn btn-secondary mb-2">Create Title</a>
+
+<div class="row mb-3">
+    <div class="col">
+        <form asp-controller="Title" asp-action="Index" method="get" class="form-inline">
+            <div class="input-group">
+                <input type="text" name="searchString" class="form-control" placeholder="Search by title...">
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-outline-secondary">Search</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<hr />
+
+@if (!Model.Any())
+{
+    <h3 class="text-center">You have no Titles!</h3>
+}
+else
+{
+    <div class="container">
+        <div class="row">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Author</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var title in Model)
+                    {
+                        <tr>
+                            <td>@title.Name</td>
+                            <td>@title.Description</td>
+                            <td>@title.CreatedBy.UserName</td>
+                            <td>
+                                <img src="@title.ImageUrl" width="200px" alt="Image">
+                            </td>
+                            <td>
+                                <a asp-controller="Title" asp-action="Details" asp-route-titleId="@title.Id" class="btn btn-secondary">Details</a>
+                                @if (int.Parse(UserManager.GetUserId(User)) == title.CreatedBy.Id || User.IsInRole("Admin"))
+                                {
+                                    <a asp-controller="Title" asp-action="Edit" asp-route-id="@title.Id" class="btn btn-secondary">Edit</a>
+                                    <a asp-controller="Title" asp-action="Delete" asp-route-id="@title.Id" class="btn btn-danger">Delete</a>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+}

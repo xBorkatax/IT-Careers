@@ -1,0 +1,23 @@
+﻿@using GuideToFlavors.Areas.Identity.Data
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<GuideToFlavorsUser> SignInManager
+@inject UserManager<GuideToFlavorsUser> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+	@if (User.IsInRole("Admin"))
+	{
+		<a asp-controller="Restaurants" class="nav-border nav-text-color nav-font-size px-1">Manage restaurants</a>
+	}
+	else
+	{
+		<a asp-controller="Restaurants" asp-action="Create" class="nav-border nav-text-color nav-font-size px-1">View restaurants</a>
+	}
+	<a asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" class="nav-text-color nav-font-size px-1">Logout</a>
+
+}
+else
+{
+	<a asp-area="Identity" asp-page="/Account/Login" class="nav-border nav-text-color nav-font-size px-1">Login</a>
+	<a asp-area="Identity" asp-page="/Account/Register" class="nav-text-color nav-font-size px-1">Register</a>
+}

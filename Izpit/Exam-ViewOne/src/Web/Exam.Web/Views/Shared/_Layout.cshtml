@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exam</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Exam.styles.css" asp-append-version="true" />
+</head>
+<body>
+<header>
+	<nav class="d-flex justify-content-center my-3">
+		<a asp-controller="Home" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Home</a>
+		<partial name="_LoginPartial" />
+	</nav>
+</header>
+<div class="container">
+	<main role="main" class="pb-3">
+		@RenderBody()
+	</main>
+</div>
+
+<footer class="border-top footer text-muted">
+	<div class="container">
+		&copy; 2024 - Exam
+	</div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		const navLinks = document.querySelectorAll("nav [href]");
+		const currentUrl = window.location.href.split("?")[0];
+
+		navLinks.forEach(link => {
+			const linkUrl = link.href.split("?")[0];
+			if (linkUrl === currentUrl) {
+				link.classList.add("nav-link-active");
+			}
+		});
+	});
+</script>

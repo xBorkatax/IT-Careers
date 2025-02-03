@@ -1,0 +1,46 @@
+﻿@model List<LocationViewModel>
+
+    <div class="container mt-5">
+        <h2 class="mb-4">Locations</h2>
+        @if (Model != null && Model.Count > 0)
+        {
+            <a asp-controller="Location" asp-action="Create" class="btn btn-secondary mb-2">Create New Location</a>
+            <table class="table table-bordered table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Address</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var location in Model)
+                    {
+                        <tr>
+                            <td>@location.Id</td>
+                            <td>@location.Name</td>
+                            <td>@location.Address</td>
+                        <td>
+                            <a asp-controller="Location" asp-action="Edit" asp-route-id="@location.Id" class="btn btn-secondary">Edit</a>
+                            <a asp-controller="Location" asp-action="Delete" asp-route-id="@location.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-info" role="alert">
+                No locations found for this user.
+            </div>
+            <a asp-controller="Location" asp-action="Create" class="btn btn-secondary mb-2">Create New Location</a>
+        }
+    </div>
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+}
+

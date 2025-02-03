@@ -1,0 +1,41 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-family: verdana;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.register-login-form {
+    width: fit-content;
+}
+
+.font{
+    color: dimgray;
+    
+}
+
+.font:hover {
+    text-decoration: none;
+    color: dimgray;
+}
+
+.login-text{
+    background-color:aliceblue;
+}
+
+.submit-button{
+    background-color:chocolate;
+    color: white;
+}
+
+.login-submit-button:hover {
+    text-decoration: none;
+    color: white;
+
+}

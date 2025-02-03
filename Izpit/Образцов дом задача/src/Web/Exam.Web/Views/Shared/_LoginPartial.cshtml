@@ -1,0 +1,39 @@
+﻿@using Exam.Data.Models
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@inject SignInManager<User> SignInManager
+@inject UserManager<User> UserManager
+
+@if (SignInManager.IsSignedIn(User))
+{
+	@if (User.IsInRole("Administrator"))
+	{
+		<a asp-controller="Title" asp-action="Index" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Title </a>
+		<a asp-controller="Task" asp-action="Index" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Tasks </a>
+		<a asp-controller="Admin" asp-action="Index" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Admin panel </a>
+		<a asp-controller="Account"
+		   asp-route-userId="@int.Parse(UserManager.GetUserId(User))"
+		   asp-action="EditUser"
+		   class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">
+			My Profile
+		</a>
+	}
+	else
+	{
+		<a asp-controller="Title" asp-action="Index" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Manage </a>
+		<a asp-controller="Account"
+		   asp-route-userId="@int.Parse(UserManager.GetUserId(User))"
+		   asp-action="EditUser"
+		   class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">
+			My Profile
+		</a>
+	}
+	<a asp-controller="Account" asp-action="Logout" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Logout</a>
+
+}
+else
+{
+	<a asp-controller="Account" asp-action="Login" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Login</a>
+	<a asp-controller="Account" asp-action="Register" class="font border navbar-text border-light-subtle fs-5 p-2" style="text-decoration: none">Register</a>
+}

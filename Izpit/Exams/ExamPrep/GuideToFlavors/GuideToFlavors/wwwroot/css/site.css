@@ -1,0 +1,72 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: 'Times New Roman';
+}
+
+.w-fit-content {
+    width: fit-content;
+}
+
+.account-form-title {
+    position: relative;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    left: 1rem;
+    top: -1rem;
+    background-color: white;
+    font-size: large;
+}
+
+.form-title {
+    position: relative;
+    padding-left: .5rem;
+    padding-right: .5rem;
+    left: 1rem;
+    top: -1rem;
+    background-color: white;
+    font-size: large;
+}
+
+.account-form-border {
+    border: 2px solid black;
+}
+
+.form-border {
+    border: 2px solid black;
+}
+
+.nav-border {
+    border-right: 1px solid black;
+}
+
+.nav-text-color {
+    color: deepskyblue;
+}
+
+.nav-font-size {
+    font-size: 25px;
+}
+
+.nav-link-active {
+    color: black;
+    text-decoration: none;
+}

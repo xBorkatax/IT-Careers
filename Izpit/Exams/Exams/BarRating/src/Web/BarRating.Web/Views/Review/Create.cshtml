@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model BarRating.Web.Models.ReviewCreationModel
+@inject UserManager<BarRatingUser> userManager;
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="w-75 m-auto">
+    <div class="form-border">
+        <span class="form-title">Create a review for @Model.BarName</span>
+
+        <form class="w-75 m-auto" asp-action="Create" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="Text" class="mb-1"></label>
+                <br />
+                <textarea asp-for="Text" class="form-border w-100" rows="3"></textarea>
+                <br />
+                <span asp-validation-for="Text" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="CreatedById" value="@((await userManager.GetUserAsync(User)).Id)" />
+            <input type="hidden" asp-for="BarId" value="@Model.BarId" />
+            <input type="hidden" asp-for="BarName" value="@Model.BarName" />
+            <div class="mb-3 d-flex justify-content-center">
+                <button id="login-submit" class="account-form-border bg-white" type="submit">Create</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

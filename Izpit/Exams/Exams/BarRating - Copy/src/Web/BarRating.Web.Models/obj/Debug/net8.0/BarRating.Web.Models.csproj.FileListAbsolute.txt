@@ -1,0 +1,13 @@
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\bin\Debug\net8.0\BarRating.Web.Models.deps.json
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\bin\Debug\net8.0\BarRating.Web.Models.dll
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\bin\Debug\net8.0\BarRating.Web.Models.pdb
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.csproj.AssemblyReference.cache
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.AssemblyInfoInputs.cache
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.AssemblyInfo.cs
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.sourcelink.json
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.dll
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\refint\BarRating.Web.Models.dll
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\BarRating.Web.Models.pdb
+C:\Users\Neychev\Desktop\Exams\Exams\BarRating - Copy\src\Web\BarRating.Web.Models\obj\Debug\net8.0\ref\BarRating.Web.Models.dll

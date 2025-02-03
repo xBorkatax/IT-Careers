@@ -1,0 +1,19 @@
+<div class="mb-3">
+                <label hidden="hidden" asp-for="GenreId" class="form-label">@Model.GenreId</label> 
+                <input hidden="hidden" asp-for="GenreId" class="form-control" aria-required="true" /> 
+                <span asp-validation-for="GenreId" class="text-danger" hidden="hidden"></span>
+            </div>
+
+
+
+
+<div class="mb-3">
+                <label asp-for="GenreId" class="form-label">Genre</label> <select asp-for="GenreId"
+                                                                                  class="form-control">
+                    @foreach (var genre in Model.Genres)
+                    {
+                        <option value="@genre.Id">@genre.Name</option>
+                    }
+
+                </select> <span asp-validation-for="GenreId" class="text-danger"></span>
+            </div>

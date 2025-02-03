@@ -1,0 +1,90 @@
+﻿@model List<TaskViewModel>
+@{
+    ViewData["Title"] = "Task Page";
+}
+<a asp-controller="Location" asp-action="Index" class="btn btn-secondary mb-2">My Locations</a>
+<a asp-controller="Task" asp-action="Create" class="btn btn-secondary mb-2">Create Task</a>
+@if (!Model.Any())
+{
+    <h3 class="text-center">You have no Tasks!</h3>
+}
+else
+{
+    <div>
+        <div class="row">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Location</th>
+                        <th scope="col">End Date</th>
+                        <th scope="col">Budget</th>
+                        <th scope="col">Category</th>
+                        <th scope="col">Created on</th>
+                        <th scope="col">Status</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var task in Model)
+                    {
+                        <tr>
+                            <td>@task.Id</td>
+                            <td>@task.Name</td>
+                            <td>@task.Description</td>
+                            <td>
+                                @foreach (var location in ViewBag.Locations)
+                                {
+                                    if (@location.Id == task.LocationId)
+                                    {
+                                        @location.Name
+                                    }
+                                }
+                            </td>
+                            <td>@task.EndDate.ToString("yyyy-MM-dd")</td>
+                            <td>@task.Budget</td>
+                            <td>
+                                @foreach (var category in ViewBag.Categories)
+                                {
+                                    if (@category.Id == task.CategoryId)
+                                    {
+                                        @category.CategoryName
+                                    }
+                                }
+                            </td>
+                            <td>@task.CreatedOn</td>
+                            <td>
+                                @foreach (var status in ViewBag.Statuses)
+                                {
+                                    if (@status.Id == task.StatusId)
+                                    {
+                                        @status.StatusName
+                                    }
+                                }
+                            </td>
+                            <td>
+                                @if (task.StatusId == 1)
+                                {
+                                    <a asp-controller="Task" asp-action="Cancel" asp-route-id="@task.Id" class="btn btn-danger">Cancel</a>
+                                    <a asp-controller="Task" asp-action="Edit" asp-route-id="@task.Id" class="btn btn-info">Edit</a>
+                                }
+                                else if (task.StatusId == 3)
+                                {
+                                    <a asp-controller="Task" asp-action="Done" asp-route-id="@task.Id" class="btn btn-success">Mark as done</a>
+                                }
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+            crossorigin="anonymous"></script>
+}

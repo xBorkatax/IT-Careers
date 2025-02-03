@@ -1,0 +1,41 @@
+﻿@using Exam.Data.Models
+@model Exam.Web.Models.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="w-50 m-auto">
+	<div class="border-form">
+	<form class="register-login-form m-auto" method="post">
+			<div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+			<div>
+					<div class="mb-3">
+					<div class="mb-3">
+						<input asp-for="FirstName" class="font border login-text border-light-subtle fs-6 p-2 rounded-0" autocomplete="username" aria-required="true" placeholder="First Name" />
+						<br />
+						<span asp-validation-for="FirstName" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+						<input asp-for="LastName" class="font border login-text border-light-subtle fs-6 p-2 rounded-0" autocomplete="username" aria-required="true" placeholder="Last Name" />
+						<br />
+						<span asp-validation-for="LastName" class="text-danger"></span>
+					</div>
+					<input asp-for="UserName" class="font border login-text border-light-subtle fs-6 p-2 rounded-0" autocomplete="username" aria-required="true" placeholder="Username" />
+						<br />
+						<span asp-validation-for="UserName" class="text-danger"></span>
+					</div>
+					<div class="mb-3">
+					<input asp-for="Password" class="font border login-text border-light-subtle fs-6 p-2 rounded-0" autocomplete="new-password" aria-required="true" placeholder="Password" />
+						<br />
+						<span asp-validation-for="Password" class="text-danger"></span>
+					</div>
+			</div>
+			<div class="mb-3 d-flex justify-content-center">
+				<button id="register-submit" class="font border submit-button border-light-subtle p-2 fs-6 rounded-0 w-100" type="submit">Register</button>
+			</div>
+		</form>
+	</div>
+</div>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

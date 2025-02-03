@@ -1,0 +1,54 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model BarRatingUser
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="w-75 m-auto">
+    <div class="form-border">
+        <span class="form-title">Update user</span>
+
+        <form class="w-75 m-auto" asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="UserName" class="mb-1"></label>
+                <br />
+                <input asp-for="UserName" class="form-border w-100" />
+                <br />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="FirstName" class="mb-1"></label>
+                <br />
+                <input asp-for="FirstName" class="form-border w-100" />
+                <br />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LastName" class="mb-1"></label>
+                <br />
+                <input asp-for="LastName" class="form-border w-100" />
+                <br />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="mb-1"></label>
+                <br />
+                <input asp-for="Email" class="form-border w-100" />
+                <br />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3 d-flex justify-content-center">
+                <button id="login-submit" class="account-form-border bg-white" type="submit">Update user</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

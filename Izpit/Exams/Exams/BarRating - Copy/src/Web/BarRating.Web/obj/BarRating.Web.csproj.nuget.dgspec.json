@@ -1,0 +1,536 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\BarRating.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj",
+        "projectName": "BarRating.Data.Models",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj",
+        "projectName": "BarRating.Data",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj",
+        "projectName": "BarRating.Service.Mappings",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj",
+        "projectName": "BarRating.Service.Models",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\BarRating.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\BarRating.Service.csproj",
+        "projectName": "BarRating.Service",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\BarRating.Service.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj",
+        "projectName": "BarRating.Web.Models",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\BarRating.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\BarRating.Web.csproj",
+        "projectName": "BarRating.Web",
+        "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\BarRating.Web.csproj",
+        "packagesPath": "C:\\Users\\Neychev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Neychev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data.Models\\BarRating.Data.Models.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Data\\BarRating.Data\\BarRating.Data.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Mappings\\BarRating.Service.Mappings.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service.Models\\BarRating.Service.Models.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\BarRating.Service.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Service\\BarRating.Service\\BarRating.Service.csproj"
+              },
+              "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj": {
+                "projectPath": "C:\\Users\\Neychev\\Desktop\\Exams\\Exams\\BarRating - Copy\\src\\Web\\BarRating.Web.Models\\BarRating.Web.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<BarRatingUser> SignInManager
+@inject UserManager<BarRatingUser> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BarRating.Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BarRating.Web.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="d-flex justify-content-center my-3">
+            <a asp-controller="Home" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Home</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+                @if (User.IsInRole("Administrator"))
+                {
+                    <a asp-controller="Bar" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Manage bars</a>
+                    <a asp-controller="User" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">Manage users</a>
+                    <a asp-controller="Review" asp-action="MyReviews" asp-route-id="@((await UserManager.GetUserAsync(User)).Id)" class="nav-border nav-text-color nav-font-size px-1">See my reviews</a>
+                }
+                else
+                {
+                    <a asp-controller="Bar" asp-action="Index" class="nav-border nav-text-color nav-font-size px-1">All bars</a>
+                    <a asp-controller="Review" asp-action="MyReviews" asp-route-id="@((await UserManager.GetUserAsync(User)).Id)" class="nav-border nav-text-color nav-font-size px-1">See my reviews</a>
+                }
+            }
+            <partial name="_LoginPartial" />
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - BarRating.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE2614C-BD99-4403-AFC2-DF6EDEB6CC61}|..\\..\\Data\\Exam.Data.Models\\Exam.Data.Models.csproj|c:\\users\\neychev\\desktop\\exam\\src\\data\\exam.data.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BA239F-890A-4C36-933B-3D15D990307D}|..\\..\\Data\\Exam.Data\\Exam.Data.csproj|c:\\users\\neychev\\desktop\\exam\\src\\data\\exam.data\\examdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:views\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E8EC69-705B-4C9C-A2BE-025C1ED55F2C}|..\\Exam.Web.Models\\Exam.Web.Models.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam.web.models\\accountviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E8EC69-705B-4C9C-A2BE-025C1ED55F2C}|..\\Exam.Web.Models\\Exam.Web.Models.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam.web.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E8EC69-705B-4C9C-A2BE-025C1ED55F2C}|..\\Exam.Web.Models\\Exam.Web.Models.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam.web.models\\accountviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96695B5-B0DE-4B12-A32D-88FC30548FFC}|Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E8EC69-705B-4C9C-A2BE-025C1ED55F2C}|..\\Exam.Web.Models\\Exam.Web.Models.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam.web.models\\exam.web.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B794454A-AC96-4E28-8872-D7DC20D2025E}|..\\Exam.Service\\Exam.Service.csproj|c:\\users\\neychev\\desktop\\exam\\src\\web\\exam.service\\exam.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:38:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:38:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Exam.Web.Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Exam.Web.Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:35:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:34:27.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:24:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Data\\Exam.Data.Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\Exam.Data.Models\\User.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Data\\Exam.Data.Models\\User.cs",
+              "RelativeToolTip": "..\\..\\Data\\Exam.Data.Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:23:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\AccountViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Exam.Web.Models\\AccountViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\AccountViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\Exam.Web.Models\\AccountViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:23:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\AccountViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Exam.Web.Models\\AccountViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\AccountViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\Exam.Web.Models\\AccountViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:22:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:19:08.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:17:41.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Data\\Exam.Data\\ExamDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Data\\Exam.Data\\ExamDbContext.cs",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Data\\Exam.Data\\ExamDbContext.cs",
+              "RelativeToolTip": "..\\..\\Data\\Exam.Data\\ExamDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:16:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exam.Web.Models",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\Exam.Web.Models.csproj",
+              "RelativeDocumentMoniker": "..\\Exam.Web.Models\\Exam.Web.Models.csproj",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Web.Models\\Exam.Web.Models.csproj",
+              "RelativeToolTip": "..\\Exam.Web.Models\\Exam.Web.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T12:15:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Exam.Service",
+              "DocumentMoniker": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Service\\Exam.Service.csproj",
+              "RelativeDocumentMoniker": "..\\Exam.Service\\Exam.Service.csproj",
+              "ToolTip": "C:\\Users\\Neychev\\Desktop\\Exam\\src\\Web\\Exam.Service\\Exam.Service.csproj",
+              "RelativeToolTip": "..\\Exam.Service\\Exam.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T12:15:06.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
